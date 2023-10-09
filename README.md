@@ -1,4 +1,11 @@
 # AngularPsnStore
+Link do projeto: https://angular-psn-store.vercel.app/
+
+Recriando a página da PlayStation Store usando componentes de nível atomico do Angular com TypeScript através do curso da DIO.
+
+![image](https://github.com/viniciusleonel/angular-psnStore/assets/124933333/e667c619-3cf2-40d9-b831-7bc473d2dfba)
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.3.
 
